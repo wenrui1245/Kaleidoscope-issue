@@ -1,2 +1,8 @@
 # Kaleidoscope-issue
-The feedback repository for the Kaleidoscope extension platform.
+这是为了方便开发者标记有哪些需求需要完成而开放的问题反馈仓库。功能请求以及bug反馈都可以在issue中提交，并由开发者审核。反馈后记得在QQ群里@开发者哦~ 
+
+有关Phobos-Recloud的问题反馈请移步**[Phobos-Recya](https://github.com/wenrui1245/Phobos-Recya)**提issue，这里不作受理。
+## Bug反馈
+反馈bug时需要注意标注你都使用了什么平台，预期行为如何，当前行为如何。
+## 新功能请求
+需要用准确的文字甚至是图示来表达你的想法，越详细越好。但是这里有一些功能不在Kaleidoscope平台的实现范围内：修改渲染（比如vxl渲染、把游戏渲染底层改为用显卡等）、修改游戏使其支持CPU多核运行等增强性能的愿望、已经被现有公版平台实现过的功能（wic不算，由于它并不积极维护了，它已经实现的功能我们可以再次实现）、使用公版平台在两步以内无法实现的功能。
